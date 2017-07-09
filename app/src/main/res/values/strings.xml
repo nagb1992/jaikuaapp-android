@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JaikuApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="Incio">Home</string>
+    <string name="pnd_item">PND</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="splash_screen_image">Imagen de Bienvenida</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

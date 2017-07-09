@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df0a092e69e99ea5c93ba704fb0822d8952970a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/2f081698ae43fa051fb5ac758e4161de05afa175/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_719f2dc08db22d48d089233984372ab21b3ec472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/69ab1daf5b3ee44d4935a3350eb4fe31bdd021eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_88ed9c6852bce074302a1372cbb6db9e93b56727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/76196a2763095fd37b2b526e2f55ae2258cb0b50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_7b955c049df25fcdbd7ec6d490409a1502a95c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/9990ff20e95a16b12c91a679f71f9d731bc38ce3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_9bc09ba73b6cfb90318d1509a19ad77bc2285708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/002dd69c0e633292934c9814314cbaeda6b1d1f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_613230d8c93b96eaf31f9c44a304a20425d7755f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/65ca80716195d6e3abaca1aa7f9e7dc19238a903/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_a2e7fa44918274f1ab8b0ba4906f13a0875a8cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/2ce23aaf19b547461e881424f081494a0d94f547/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_a22d2306a125a6e596689f15c08f598257e762c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_30556faded29101851e4b4fde26a3b49a346ee15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/93ff46ab0b199d18d20a95b28457a3ad733c4724/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_1ecf7b341a9c624e8215392ab48007b78a2bf82f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="72a5760b6c4e30b7ea714b6496ea981feeee5447">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a5cfa10a2bc059d235ce9ab0bac707743f4edb51/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/5edc4636f72d55f5617d4063d5d05bcc9ccfaf60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_4534a6e595c36233aa95420d3045c1bf8fdc81a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/eeed4af1a44dbfd4622f8f7bb90be55a40020318/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_e7a477fdd24fa2461bf30c32be3cdb315b611409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/4159f31e24b33e0dd7f2c5d8f58dbcb879ec7345/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_a59ea1095aa5d19119c9a39233b8921534d88542.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardoescobar/.android/build-cache/7cf196ac3e9ea38ff1b4ba6469ad1c4dc8be42f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/eduardoescobar/AndroidStudioProjects/TapePya&apos;e/app/build/intermediates/pre-dexed/debug/classes_fa9e561cf2349399ef8b46a8c8dd3edeb7cee8f6.jar" />
+    </item>
+
+</items>
